@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3de75339-2731-44ef-8258-157e6b72663c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/UserPost.java" afterDir="false" />
-    </list>
+    <list default="true" id="3de75339-2731-44ef-8258-157e6b72663c" name="Changes" comment="add api tests" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,6 +32,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG.UserPost.executor": "Run",
     "TestNG.UserPost.generateToken.executor": "Run",
     "TestNG.UserPost.postAuthorized.executor": "Run",
     "TestNG.UserPost.postUser.executor": "Run",
@@ -114,6 +105,28 @@
       <option name="presentableId" value="Default" />
       <updated>1712599475041</updated>
     </task>
+    <task id="LOCAL-00001" summary="fist commit">
+      <option name="closed" value="true" />
+      <created>1712601163817</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712601163817</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add api tests">
+      <option name="closed" value="true" />
+      <created>1712601186880</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1712601186880</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fist commit" />
+    <MESSAGE value="add api tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="add api tests" />
   </component>
 </project>
